@@ -42,3 +42,4 @@ label1.pack()
 label2 = tk.Label(canvas, font=f,bg="skyblue",fg="blue")
 label2.pack()
 canvas.mainloop()
+
